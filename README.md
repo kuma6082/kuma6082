@@ -17,9 +17,9 @@
 
 🌱 **Currently Learning**: Web technologies
 
-💼 **Interests**: 
+💼 **Interests**: Exploring AI, Efficiency Optimization, and Enjoying Good Drinks
 
-📖 **Blog**: くまがいBlog(https://astro-notion-blog-7kr.pages.dev/)
+📖 **Blog**: [くまがいBlog](https://astro-notion-blog-7kr.pages.dev/)
 
 </div>
 
