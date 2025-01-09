@@ -33,7 +33,7 @@
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,php,html,css,postgres,linux,bash,docker,git,pnpm,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,py,html,css,bash,docker,git,vscode" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,htmx,terraform,aws,gcp,redis,graphql" />
+    <img src="https://skillicons.dev/icons?i=ts,go,terraform,aws,gcp,azure" />
   </a>
 </p>
 
