@@ -1,51 +1,52 @@
-<h1 align="center">
+<h1 align="">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=Hello+there+%F0%9F%91%8B;This+is+kuma6082+" alt="Typing SVG" />
   </a>
 </h1>
 
 
-<h3 align="center">:star:Passionate full-stack engineer: Code smart, dream big.:star:</h3>
+<div align="">
 
-<div align="center">
+## 🌟 **About Me**
 
-🚀 Passionate full-stack engineer: Crafting elegant solutions across the digital spectrum.
+🧑‍💻 **Name**: kuma6082
 
-💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.
+🌍 **Location**: Tokyo, JAPAN
 
-🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.
+🎯 **Goal**: Aspiring to become a skilled Back-End & Infrastructure Engineer
 
-⚽ Off-hours: Cheering for the Premier League's finest.
+🌱 **Currently Learning**: Web technologies
 
-🍜 Foodie coder: Exploring culinary wonders when away from the keyboard.
+💼 **Interests**: [Programming, Reading, etc.]
+
+📖 **Blog**: [My Blog](https://astro-notion-blog-7kr.pages.dev/)
 
 </div>
 
-<div align="center">
-  Contact me 
+<div align="">
   <br />
   
   [![Twitter Follow](https://img.shields.io/twitter/follow/kuma6082?style=social)](https://twitter.com/kuma6082)
 </div>
 
 
-<h2 align="center">:dog:Languages & tools:dog:</h2>
+## 🛠️ Skills & Tools
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,php,html,css,postgres,linux,bash,docker,git,pnpm,vscode,vim" />
   </a>
 </p>
 
-<h3 align="center">:dog:Want :dog:</h3>
+<h3 align="">:dog:Want :dog:</h3>
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,htmx,terraform,aws,gcp,redis,graphql" />
   </a>
 </p>
 
 
-<h2 align="center">:pencil:Activities:pencil:</h2>
+## 🏆 GitHub Stats
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuma6082&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=kuma6082's%20Contribution%20Graph&title_color=36BCF7" alt="kuma6082's github activity graph" />
