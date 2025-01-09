@@ -17,14 +17,13 @@
 
 🌱 **Currently Learning**: Web technologies
 
-💼 **Interests**: [Programming, Reading, etc.]
+💼 **Interests**: 
 
-📖 **Blog**: [My Blog](https://astro-notion-blog-7kr.pages.dev/)
+📖 **Blog**: くまがいBlog(https://astro-notion-blog-7kr.pages.dev/)
 
 </div>
 
 <div align="">
-  <br />
   
   [![Twitter Follow](https://img.shields.io/twitter/follow/kuma6082?style=social)](https://twitter.com/kuma6082)
 
@@ -40,7 +39,7 @@
   </a>
 </p>
 
-<h3 align="">:dog:Want :dog:</h3>
+<h3 align="">Want</h3>
 
 <p align="">
   <a href="https://skillicons.dev">
