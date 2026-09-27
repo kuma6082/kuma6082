@@ -1,30 +1,55 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=Hello+there+%F0%9F%91%8B;This+is+kuma6082" alt="Typing SVG" />
-  </a>
-</h1>
+# Shunsuke Kumagai
 
-<div align="">
+<div align="center">
+
+### 現場理解を、継続して使える仕組みへ。
+
+厨房設備設計の実務を基盤に、VBA・Google Apps Script・Python・JavaScript・AIを使った  
+**業務標準化・自動化・社内ツール開発**に取り組んでいます。
+
+[![Portfolio](https://img.shields.io/badge/Career_Portfolio-portfolio.kuma--lab.dev-111827?style=for-the-badge)](https://portfolio.kuma-lab.dev)
+[![Blog](https://img.shields.io/badge/Blog-くまがいBlog-111827?style=for-the-badge)](https://astro-notion-blog-7kr.pages.dev/)
+[![X Follow](https://img.shields.io/twitter/follow/kuma6082?style=for-the-badge&logo=x)](https://x.com/kuma6082)
+
+</div>
+
+---
 
 ## 🌟 About Me / 自己紹介
 
 🧑‍💻 **Name**: kuma6082（Shunsuke Kumagai）  
 🌍 **Location**: Tokyo, Japan  
 
-現在は **飲食チェーン向けの厨房レイアウト設計** を担当しつつ、  
-社内業務の **自動化ツール・内製Webツール** を作ることに力を入れています。  
+消防設備工事の施工管理を経験した後、業務用厨房機器のレイアウト・設備設計に携わってきました。
 
-- 🎯 **Goal**:  
-  現場理解を活かした **バックエンド / 業務改善・社内ツールエンジニア** になること  
-- 💻 **Tech Focus**:  
-  Python（Django） / Google Apps Script / Excel VBA / JavaScript  
-- 💡 **Interests**:  
-  反復作業の自動化 / 内部業務システム / 実務で使えるAI活用  
-- 📖 **Blog**: [くまがいBlog](https://astro-notion-blog-7kr.pages.dev/)
+現場条件、設備条件、利用者の動線を扱ってきた経験を基盤に、現在は **業務改善・社内SE・DX領域** へ軸足を広げています。
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kuma6082?style=social)](https://twitter.com/kuma6082)
+現場の課題をそのままコードへ置き換えるのではなく、利用者、運用、承認、保守まで含めて、**継続して使える仕組み**にすることを重視しています。
 
-</div>
+---
+
+## 📌 Selected Work
+
+### AssetVault
+
+個人の資産データを、自分の管理環境へ履歴として保存・確認するためのデータ基盤です。
+
+Moneytree・bitFlyerから取得するデータについて、rawデータと表示・集計用データの責務を分離し、Cloudflare Workers / R2 / D1を使って保存・集計・表示する仕組みを構築しました。
+
+本番データと公開デモも分離し、公開デモは合成データ専用で運用しています。
+
+- **[Case Study](https://portfolio.kuma-lab.dev/work/assetvault)**
+- **[Public Demo](https://dashboard-demo.kuma-lab.dev/)**
+
+### Photo Upload Form
+
+現場写真を個人メールで受け取る運用から、共通領域で **受領 → 確認 → 正式保存** する業務フローへ改善した事例です。
+
+Google Apps Script、Google Drive、Excel VBAなどを組み合わせ、現場からブラウザだけで写真を送信できる仕組みを設計・実装しました。
+
+試作運用では、テスト利用を除く **104案件・79店舗** での利用を確認しています。
+
+- **[Case Study](https://portfolio.kuma-lab.dev/work/photo-upload-form)**
 
 ---
 
@@ -32,72 +57,44 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bash,docker,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,html,css,bash,docker,git,github,vscode" alt="Skills and tools" />
   </a>
 </p>
 
-### 🔭 Learning / Next
+### 業務改善・自動化
+Excel VBA / Google Apps Script / JavaScript
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,go" />
-  </a>
-</p>
+### Web Development
+Python / Django / TypeScript / HTML / CSS
 
----
+### Cloud & Data
+Cloudflare Workers / D1 / R2 / Pages / GitHub Actions
 
-## 📌 Main Projects / 主なプロジェクト
+### AI-assisted Development
+AIをコード生成だけでなく、要件整理、設計検討、実装、不具合分析、レビューにも利用しています。
 
-- **OKWhiskyNotifier**  
-  OKストアのニュースをスクレイピングし、「国産洋酒」抽選販売を検知して  
-  **Discord通知＋Googleカレンダー登録＋リマインド** まで自動化するGASスクリプト。
-
-- **kaldi-sale-calendar-bot**  
-  カルディのセール情報を取得し、好みの店舗のセール期間を  
-  Googleカレンダーに自動登録するボット。
-
-- **kirara-to-x-poster（Chrome拡張）**  
-  学習管理サービス「KIRARA」の日報を、X（旧Twitter）投稿用に整形して  
-  ワンクリックで投稿画面を開く拡張機能。
-
-- **VBAtoGCal**  
-  Excelのスケジュールデータを VBA + GAS で Googleカレンダーと連携するツール。
-
-※ Django製の X クローンなど、今後の個人開発も順次公開予定です。
+AIへ実装を任せる場合でも、課題設定、設計、受入条件、レビュー、採否、マージ、外部サービス操作の最終判断は本人が担当します。
 
 ---
 
-## 🏆 GitHub Stats
+## 🔧 Other Projects
 
-<div align="center">
+- **[OKWhiskyNotifier](https://github.com/kuma6082/OKWhiskyNotifier)**  
+  Web上の抽選情報を検知し、Discord通知・Google Calendar登録・リマインドまで自動化するGoogle Apps Script。
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=kuma6082&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=kuma6082's%20Contribution%20Graph&title_color=36BCF7"
-      alt="kuma6082's github activity graph"
-    />
-  </a>
+- **[kirara-to-x-poster](https://github.com/kuma6082/kirara-to-x-poster)**  
+  学習記録を取得・整形し、Xへの投稿を支援するChrome拡張。
 
-  <br /><br />
+- **[kaldi-sale-calendar-bot](https://github.com/kuma6082/kaldi-sale-calendar-bot)**  
+  店舗セール情報を取得し、Google Calendar登録とDiscord通知を自動化するボット。
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=kuma6082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=320"
-      alt="GitHub stats"
-    />
-    <img
-      src="https://streak-stats.demolab.com/?user=kuma6082&background=1a1b27&border=ffffff&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7&dates=ffffff&excludeDaysLabel=ffffff&card_height=195&card_width=400"
-      alt="GitHub streak"
-    />
-  </div>
+- **[VBAtoGCal](https://github.com/kuma6082/VBAtoGCal)**  
+  Excel / VBAとGoogle Apps Scriptをつなぎ、Google Calendarへ予定を登録するツール。
 
-  <br />
+---
 
-  <a href="https://github.com/kuma6082">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuma6082&layout=normal&theme=tokyonight&bg_color=000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true&card_width=400&langs_count=6"
-      alt="Top Langs"
-    />
-  </a>
+## 🔗 Links
 
-</div>
+- **Portfolio:** https://portfolio.kuma-lab.dev
+- **Blog:** https://astro-notion-blog-7kr.pages.dev/
+- **X:** https://x.com/kuma6082
