@@ -93,21 +93,6 @@ AIへ実装を任せる場合でも、課題設定、設計、受入条件、レ
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kuma6082&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=kuma6082's%20Contribution%20Graph&title_color=36BCF7"
-    alt="kuma6082's GitHub activity graph"
-  />
-</a>
-
-</div>
-
----
-
 ## 🔗 Links
 
 - **Portfolio:** https://portfolio.kuma-lab.dev
